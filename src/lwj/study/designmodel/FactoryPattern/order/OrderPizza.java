@@ -22,18 +22,18 @@ public class OrderPizza {
         do {
             getType();
             pizza = factory.createrPizza(ordertype);
-            if (pizza != null){
+            if (pizza != null) {
                 pizza.prepare();
                 pizza.bake();
                 pizza.cut();
                 pizza.box();
-            }else {
+            } else {
                 break;
             }
-        }while (true);
+        } while (true);
     }
 
-    private void getType(){
+    private void getType() {
         Scanner in = new Scanner(System.in);
         System.out.println("你想要哪种披萨：");
         this.ordertype = in.nextLine();
