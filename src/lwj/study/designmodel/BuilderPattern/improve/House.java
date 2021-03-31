@@ -8,6 +8,15 @@ public class House {
     private String wall;
     private String roofed;
 
+    @Override
+    public String toString() {
+        return "House{" +
+                "base='" + base + '\'' +
+                ", wall='" + wall + '\'' +
+                ", roofed='" + roofed + '\'' +
+                '}';
+    }
+
     public String getBase() {
         return base;
     }
