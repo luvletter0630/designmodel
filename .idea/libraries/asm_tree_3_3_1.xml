@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="asm-tree-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lwj/study/designmodel/ProxyPattern/Cglib/asm-tree-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lwj/study/designmodel/ProxyPattern/Cglib/asm-commons-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lwj/study/designmodel/ProxyPattern/Cglib/asm-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
