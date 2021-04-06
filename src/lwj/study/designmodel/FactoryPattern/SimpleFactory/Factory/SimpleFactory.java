@@ -1,14 +1,15 @@
-package lwj.study.designmodel.FactoryPattern.Factory;
+package lwj.study.designmodel.FactoryPattern.SimpleFactory.Factory;
 
-import lwj.study.designmodel.FactoryPattern.pizza.ChessPizza;
-import lwj.study.designmodel.FactoryPattern.pizza.GreekPizza;
-import lwj.study.designmodel.FactoryPattern.pizza.PepperPizza;
-import lwj.study.designmodel.FactoryPattern.pizza.Pizza;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.pizza.ChessPizza;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.pizza.GreekPizza;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.pizza.PepperPizza;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.pizza.Pizza;
 
 import java.util.Calendar;
 
 /**
  * Created by Administrator on 2021/3/31.
+ * 简单工厂模式
  */
 public class SimpleFactory {
 

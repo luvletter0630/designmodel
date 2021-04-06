@@ -1,7 +1,7 @@
-package lwj.study.designmodel.FactoryPattern.order;
+package lwj.study.designmodel.FactoryPattern.SimpleFactory.order;
 
-import lwj.study.designmodel.FactoryPattern.Factory.SimpleFactory;
-import lwj.study.designmodel.FactoryPattern.pizza.Pizza;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.Factory.SimpleFactory;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.pizza.Pizza;
 
 import java.util.Scanner;
 
