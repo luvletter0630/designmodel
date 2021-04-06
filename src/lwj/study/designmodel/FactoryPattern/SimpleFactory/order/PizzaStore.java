@@ -1,9 +1,7 @@
-package lwj.study.designmodel.FactoryPattern.order;
+package lwj.study.designmodel.FactoryPattern.SimpleFactory.order;
 
 
-import lwj.study.designmodel.FactoryPattern.Factory.SimpleFactory;
-
-import java.util.Scanner;
+import lwj.study.designmodel.FactoryPattern.SimpleFactory.Factory.SimpleFactory;
 
 /**
  * Created by Administrator on 2021/3/31.

@@ -1,4 +1,4 @@
-package lwj.study.designmodel.FactoryPattern.pizza;
+package lwj.study.designmodel.FactoryPattern.SimpleFactory.pizza;
 
 /**
  * Created by Administrator on 2021/3/31.
